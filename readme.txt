@@ -30,5 +30,8 @@ Just install and active this plugin then you will get Regular Posts Element widg
 
 == Changelog ==
 
-= 1.0 =
+= 1.0.0 =
 * Just release new version.
+
+= 1.0.1 =
+* Fixed Errors and Add Status Qurey.
